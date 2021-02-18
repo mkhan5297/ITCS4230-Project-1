@@ -1,0 +1,21 @@
+Ghost:
+outline:
+	size: .10
+	color(basic): #8462ff
+fill:
+	base fill: #d4c8ff
+	skin: #4a455f
+highllight:
+	light: #f2eeff
+	size .10
+
+shadow:
+	opacity 57%
+	size: .94
+	color: #2c293b
+	brush: shading pixel
+tears:
+	base: #bb95ff (.10)
+	highlight  #dfcfff
+	(.2)(32%)
+
