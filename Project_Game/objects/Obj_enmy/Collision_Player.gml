@@ -1,4 +1,7 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 221180BD
-room_goto(noone);
+/// @DnDHash : 698FB9B7
+/// @DnDArgument : "expr" "- (self.damage_basic)"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "Player.hp"
+Player.hp += - (self.damage_basic);

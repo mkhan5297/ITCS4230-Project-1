@@ -19,3 +19,55 @@ tears:
 	highlight  #dfcfff
 	(.2)(32%)
 
+Floor tiles:
+	ouline
+		dark: #131224
+		light: #473cf8
+
+ctrl Alt C => resize canvas
+
+player:
+
+hair: 
+fill: #341206
+outline: #260a00
+
+ouline size: 5.88
+liquify brush size 79.70
+
+gold fill: #e49309
+eye shader: #916216
+gold outlining: #2d1c00
+
+flame outline #fa7720
+fire orange: #ff6d00
+fire yellow: #ffee00 13%
+
+lininen for torch color #dccbb1
+
+leather strap outline: #0d0c0a
+
+scarf fill: #b73e2d
+	outline: #3b0700
+chainmail ouline: black -- fil: #1d1c1c
+
+torch outline: #1d0800
+torch linen otuline: #0f0f0f
+
+skin base: #956036
+skin outline: #442b18
+
+_____________________________________________-
+
+
+litch skin outline: #1f463a
+
+litch outline -- use 1.44 size
+crown outline: #485653
+	fill: #2b2b2b
+clothes outline color: #382c48
+	fill: #0a060d
+
+cloak outline color #101412
+
+skin fill: #475f55

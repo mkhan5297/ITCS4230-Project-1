@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_enmy",
-    "path": "sprites/Spr_enmy/Spr_enmy.yy",
+    "name": "Spr_ghost",
+    "path": "sprites/Spr_ghost/Spr_ghost.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,7 +23,11 @@
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"parent":{"name":"Obj_enmy","path":"objects/Obj_enmy/Obj_enmy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [],
+  "properties": [
+    {"varType":1,"value":"5","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"damage_basic","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":1,"value":"10","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"damage_special","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":1,"value":"10","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"hp","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
