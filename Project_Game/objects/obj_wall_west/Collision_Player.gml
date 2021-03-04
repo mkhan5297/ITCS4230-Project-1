@@ -2,10 +2,10 @@
 /// @DnDVersion : 1
 /// @DnDHash : 53DBCA70
 /// @DnDApplyTo : other
-/// @DnDArgument : "x" "32"
+/// @DnDArgument : "x" "4"
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
 with(other) {
-x += 32;
+x += 4;
 
 }
