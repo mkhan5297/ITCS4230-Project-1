@@ -24,8 +24,8 @@ for(var i = 0; i < 4; i += 1) {
 	/// @DnDHash : 6C6A5B92
 	/// @DnDParent : 61F2060E
 	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "32"
+	/// @DnDArgument : "y" "self.step_size"
 	/// @DnDArgument : "y_relative" "1"
 	
-	y += 32;
+	y += self.step_size;
 }

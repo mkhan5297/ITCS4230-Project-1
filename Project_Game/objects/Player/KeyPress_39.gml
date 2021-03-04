@@ -23,8 +23,8 @@ for(var i = 0; i < 4; i += 1) {
 	/// @DnDVersion : 1
 	/// @DnDHash : 2DB59FB1
 	/// @DnDParent : 2353E51D
-	/// @DnDArgument : "x" "32"
+	/// @DnDArgument : "x" "self.step_size"
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y_relative" "1"
-	x += 32;
+	x += self.step_size;
 }
