@@ -27,6 +27,7 @@ Floor tiles:
 ctrl Alt C => resize canvas
 
 player:
+pixelart brush size .57
 
 hair: 
 fill: #341206
