@@ -1,9 +1,8 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 43858C99
-/// @DnDArgument : "expr" "20"
-/// @DnDArgument : "var" "hold"
-hold = 20;
+/// @DnDHash : 6929D354
+/// @DnDArgument : "steps" "20"
+alarm_set(0, 20);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -19,6 +18,17 @@ direction = Player.sprite_index;
 /// @DnDArgument : "value" "Spr_player_l"
 if(direction == Spr_player_l)
 {
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 51C9150B
+	/// @DnDInput : 2
+	/// @DnDParent : 5B531C18
+	/// @DnDArgument : "expr" "-40"
+	/// @DnDArgument : "var" "offsetx"
+	/// @DnDArgument : "var_1" "offsety"
+	offsetx = -40;
+	offsety = 0;
+
 	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 	/// @DnDVersion : 1
 	/// @DnDHash : 089B4F86
@@ -34,6 +44,17 @@ if(direction == Spr_player_l)
 /// @DnDArgument : "value" "Spr_player_u"
 if(direction == Spr_player_u)
 {
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 5A75DAA1
+	/// @DnDInput : 2
+	/// @DnDParent : 43C36E92
+	/// @DnDArgument : "expr_1" "-40"
+	/// @DnDArgument : "var" "offsetx"
+	/// @DnDArgument : "var_1" "offsety"
+	offsetx = 0;
+	offsety = -40;
+
 	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 	/// @DnDVersion : 1
 	/// @DnDHash : 35ECECA2
@@ -49,6 +70,17 @@ if(direction == Spr_player_u)
 /// @DnDArgument : "value" "Spr_player_r"
 if(direction == Spr_player_r)
 {
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 30C36CBE
+	/// @DnDInput : 2
+	/// @DnDParent : 6694B2BE
+	/// @DnDArgument : "expr" "40"
+	/// @DnDArgument : "var" "offsetx"
+	/// @DnDArgument : "var_1" "offsety"
+	offsetx = 40;
+	offsety = 0;
+
 	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 	/// @DnDVersion : 1
 	/// @DnDHash : 26EF810D
@@ -63,6 +95,17 @@ if(direction == Spr_player_r)
 /// @DnDArgument : "value" "Spr_player_d"
 if(direction == Spr_player_d)
 {
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 2F50D3CF
+	/// @DnDInput : 2
+	/// @DnDParent : 7E294E11
+	/// @DnDArgument : "expr_1" "40"
+	/// @DnDArgument : "var" "offsetx"
+	/// @DnDArgument : "var_1" "offsety"
+	offsetx = 0;
+	offsety = 40;
+
 	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 	/// @DnDVersion : 1
 	/// @DnDHash : 7B682A40

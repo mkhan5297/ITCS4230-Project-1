@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "Spr_player_sheild",
-    "path": "sprites/Spr_player_sheild/Spr_player_sheild.yy",
+    "name": "Capture",
+    "path": "sprites/Capture/Capture.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Obj_sword",
-    "path": "objects/Obj_sword/Obj_sword.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -24,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"parent":{"name":"Obj_shield","path":"objects/Obj_shield/Obj_shield.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":13,"eventType":9,"collisionObjectId":null,"parent":{"name":"Obj_title","path":"objects/Obj_title/Obj_title.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -33,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_shield",
+  "name": "Obj_title",
   "tags": [],
   "resourceType": "GMObject",
 }
