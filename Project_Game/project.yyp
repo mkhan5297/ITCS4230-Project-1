@@ -17,7 +17,10 @@
     {"id":{"name":"Spr_ghost_b_attack","path":"sprites/Spr_ghost_b_attack/Spr_ghost_b_attack.yy",},"order":9,},
     {"id":{"name":"obj_wall_east","path":"objects/obj_wall_east/obj_wall_east.yy",},"order":3,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
+<<<<<<< HEAD
     {"id":{"name":"litch_bullet","path":"sprites/litch_bullet/litch_bullet.yy",},"order":15,},
+=======
+>>>>>>> f058caa8ce624b4e34d96c39f00c0d432acedfb7
     {"id":{"name":"Spr_ghost_s_attack","path":"sprites/Spr_ghost_s_attack/Spr_ghost_s_attack.yy",},"order":10,},
     {"id":{"name":"Spr_ghost15","path":"sprites/Spr_ghost15/Spr_ghost15.yy",},"order":14,},
     {"id":{"name":"Spr_player_d","path":"sprites/Spr_player_d/Spr_player_d.yy",},"order":2,},
