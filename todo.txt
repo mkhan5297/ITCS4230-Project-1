@@ -1,6 +1,0 @@
-player charecter
-	-back view
-	-front view
-	-sideview 1, 2
-
-background 1
