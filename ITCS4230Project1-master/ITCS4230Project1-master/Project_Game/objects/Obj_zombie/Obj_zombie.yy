@@ -29,6 +29,7 @@
   ],
   "overriddenProperties": [
     {"propertyId":{"name":"mspeed","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"points","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",

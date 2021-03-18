@@ -59,4 +59,14 @@ if(l364C0C43_0)
 			draw_sprite(Spr_key, 0, 32, 64);
 		}
 	}
+
+	/// @DnDAction : YoYo Games.Drawing.Draw_Value
+	/// @DnDVersion : 1
+	/// @DnDHash : 51B550EA
+	/// @DnDParent : 364C0C43
+	/// @DnDArgument : "x" "128"
+	/// @DnDArgument : "y" "64"
+	/// @DnDArgument : "caption" ""
+	/// @DnDArgument : "var" ""Score: " + string( Player.points)"
+	draw_text(128, 64,  + string("Score: " + string( Player.points)));
 }
