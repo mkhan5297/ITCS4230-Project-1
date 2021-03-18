@@ -4,9 +4,9 @@
 /// @DnDApplyTo : other
 /// @DnDArgument : "x" "0"
 /// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "-4"
+/// @DnDArgument : "y" "-20"
 /// @DnDArgument : "y_relative" "1"
 with(other) {
 x += 0;
-y += -4;
+y += -20;
 }
