@@ -2,10 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 7F90E8C0
 /// @DnDApplyTo : other
-/// @DnDArgument : "x" "-4"
+/// @DnDArgument : "x" "other.x_adjust"
 /// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "other.y_adjust"
 /// @DnDArgument : "y_relative" "1"
 with(other) {
-x += -4;
-
+x += other.x_adjust;
+y += other.y_adjust;
 }

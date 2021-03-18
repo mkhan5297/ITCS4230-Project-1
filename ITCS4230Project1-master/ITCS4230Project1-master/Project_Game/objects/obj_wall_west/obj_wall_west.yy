@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_wall_east",
+    "path": "objects/obj_wall_east/obj_wall_east.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -21,11 +24,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"parent":{"name":"obj_wall_west","path":"objects/obj_wall_west/obj_wall_west.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_zombie","path":"objects/Obj_zombie/Obj_zombie.yy",},"parent":{"name":"obj_wall_west","path":"objects/obj_wall_west/obj_wall_west.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"x_adjust","path":"objects/obj_wall_east/obj_wall_east.yy",},"objectId":{"name":"obj_wall_east","path":"objects/obj_wall_east/obj_wall_east.yy",},"value":"4    ","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"y_adjust","path":"objects/obj_wall_east/obj_wall_east.yy",},"objectId":{"name":"obj_wall_east","path":"objects/obj_wall_east/obj_wall_east.yy",},"value":"0","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
