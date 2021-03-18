@@ -49,6 +49,7 @@
     {"id":{"name":"Room13","path":"rooms/Room13/Room13.yy",},"order":20,},
     {"id":{"name":"Room7","path":"rooms/Room7/Room7.yy",},"order":16,},
     {"id":{"name":"Room8","path":"rooms/Room8/Room8.yy",},"order":17,},
+    {"id":{"name":"Obj_locked_door","path":"objects/Obj_locked_door/Obj_locked_door.yy",},"order":19,},
     {"id":{"name":"Spr_player_u","path":"sprites/Spr_player_u/Spr_player_u.yy",},"order":3,},
     {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},"order":15,},
     {"id":{"name":"Spr_projectile_rock","path":"sprites/Spr_projectile_rock/Spr_projectile_rock.yy",},"order":17,},
