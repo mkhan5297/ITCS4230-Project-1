@@ -1,1 +1,1 @@
-var targetroom, targetx, targety;
+//var targetroom, targetx, targety;
