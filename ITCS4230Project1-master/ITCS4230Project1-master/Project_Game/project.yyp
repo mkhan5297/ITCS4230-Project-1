@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Spr_player_b_attack","path":"sprites/Spr_player_b_attack/Spr_player_b_attack.yy",},"order":7,},
+    {"id":{"name":"Obj_stoneSoldier","path":"objects/Obj_stoneSoldier/Obj_stoneSoldier.yy",},"order":16,},
     {"id":{"name":"Spr_ghost","path":"sprites/Spr_ghost/Spr_ghost.yy",},"order":6,},
     {"id":{"name":"Obj_title","path":"objects/Obj_title/Obj_title.yy",},"order":12,},
     {"id":{"name":"Spr_Sword","path":"sprites/Spr_Sword/Spr_Sword.yy",},"order":11,},
