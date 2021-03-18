@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_key",
-    "path": "sprites/Spr_key/Spr_key.yy",
+    "name": "Spr_chest",
+    "path": "sprites/Spr_chest/Spr_chest.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,9 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"parent":{"name":"Obj_key","path":"objects/Obj_key/Obj_key.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -30,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_key",
+  "name": "Obj_chest",
   "tags": [],
   "resourceType": "GMObject",
 }
