@@ -21,4 +21,42 @@ if(l364C0C43_0)
 	/// @DnDArgument : "mincol" "$FF0000FF"
 	/// @DnDArgument : "maxcol" "$FF00FF00"
 	draw_healthbar(8, 8, 256, 32, Player.hp, $FF000000 & $FFFFFF, $FF0000FF & $FFFFFF, $FF00FF00 & $FFFFFF, 0, (($FF000000>>24) != 0), (($FF000000>>24) != 0));
+
+	/// @DnDAction : YoYo Games.Common.If_Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 0C62AD2F
+	/// @DnDParent : 364C0C43
+	/// @DnDArgument : "var" "Player.num_keys"
+	/// @DnDArgument : "op" "2"
+	if(Player.num_keys > 0)
+	{
+		/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
+		/// @DnDVersion : 1
+		/// @DnDHash : 2CCB0117
+		/// @DnDParent : 0C62AD2F
+		/// @DnDArgument : "x" "16"
+		/// @DnDArgument : "y" "64"
+		/// @DnDArgument : "sprite" "Spr_key"
+		/// @DnDSaveInfo : "sprite" "Spr_key"
+		draw_sprite(Spr_key, 0, 16, 64);
+	
+		/// @DnDAction : YoYo Games.Common.If_Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 2B266723
+		/// @DnDParent : 0C62AD2F
+		/// @DnDArgument : "var" "Player.num_keys"
+		/// @DnDArgument : "value" "2"
+		if(Player.num_keys == 2)
+		{
+			/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
+			/// @DnDVersion : 1
+			/// @DnDHash : 208699B9
+			/// @DnDParent : 2B266723
+			/// @DnDArgument : "x" "32"
+			/// @DnDArgument : "y" "64"
+			/// @DnDArgument : "sprite" "Spr_key"
+			/// @DnDSaveInfo : "sprite" "Spr_key"
+			draw_sprite(Spr_key, 0, 32, 64);
+		}
+	}
 }
