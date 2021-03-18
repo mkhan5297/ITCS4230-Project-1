@@ -13,3 +13,5 @@ todo: make zombie take dammage
 
 
 make walls not let monsters wal through
+
+need fix south wall code
