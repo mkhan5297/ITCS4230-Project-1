@@ -1,5 +1,5 @@
-targetroom = Room4;
+targetroom = Room6;
 
 targetx = 640;
 
-targety = 100;
+targety = 128;

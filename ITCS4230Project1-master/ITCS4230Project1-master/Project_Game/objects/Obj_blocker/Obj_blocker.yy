@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "Spr_player_sheild",
-    "path": "sprites/Spr_player_sheild/Spr_player_sheild.yy",
+    "name": "Sprite6",
+    "path": "sprites/Sprite6/Sprite6.yy",
   },
   "solid": true,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,

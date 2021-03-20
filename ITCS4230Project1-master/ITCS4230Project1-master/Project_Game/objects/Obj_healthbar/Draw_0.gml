@@ -30,33 +30,20 @@ if(l364C0C43_0)
 	/// @DnDArgument : "op" "2"
 	if(Player.num_keys > 0)
 	{
-		/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
+		/// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
 		/// @DnDVersion : 1
-		/// @DnDHash : 2CCB0117
+		/// @DnDHash : 5176E429
 		/// @DnDParent : 0C62AD2F
 		/// @DnDArgument : "x" "16"
 		/// @DnDArgument : "y" "64"
 		/// @DnDArgument : "sprite" "Spr_key"
+		/// @DnDArgument : "number" "Player.num_keys"
 		/// @DnDSaveInfo : "sprite" "Spr_key"
-		draw_sprite(Spr_key, 0, 16, 64);
-	
-		/// @DnDAction : YoYo Games.Common.If_Variable
-		/// @DnDVersion : 1
-		/// @DnDHash : 2B266723
-		/// @DnDParent : 0C62AD2F
-		/// @DnDArgument : "var" "Player.num_keys"
-		/// @DnDArgument : "value" "2"
-		if(Player.num_keys == 2)
-		{
-			/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
-			/// @DnDVersion : 1
-			/// @DnDHash : 208699B9
-			/// @DnDParent : 2B266723
-			/// @DnDArgument : "x" "32"
-			/// @DnDArgument : "y" "64"
-			/// @DnDArgument : "sprite" "Spr_key"
-			/// @DnDSaveInfo : "sprite" "Spr_key"
-			draw_sprite(Spr_key, 0, 32, 64);
+		var l5176E429_0 = sprite_get_width(Spr_key);
+		var l5176E429_1 = 0;
+		for(var l5176E429_2 = Player.num_keys; l5176E429_2 > 0; --l5176E429_2) {
+			draw_sprite(Spr_key, 0, 16 + l5176E429_1, 64);
+			l5176E429_1 += l5176E429_0;
 		}
 	}
 

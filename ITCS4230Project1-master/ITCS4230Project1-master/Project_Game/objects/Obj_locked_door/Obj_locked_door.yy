@@ -1,7 +1,10 @@
 {
-  "spriteId": null,
-  "solid": true,
-  "visible": false,
+  "spriteId": {
+    "name": "Spr_ldoor2",
+    "path": "sprites/Spr_ldoor2/Spr_ldoor2.yy",
+  },
+  "solid": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -19,6 +22,8 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"parent":{"name":"Obj_locked_door","path":"objects/Obj_locked_door/Obj_locked_door.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Obj_locked_door","path":"objects/Obj_locked_door/Obj_locked_door.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"Obj_locked_door","path":"objects/Obj_locked_door/Obj_locked_door.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

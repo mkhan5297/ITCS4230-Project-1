@@ -1,10 +1,3 @@
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 19FE51DC
-/// @DnDArgument : "expr" "false"
-/// @DnDArgument : "var" "self.sheild_up"
-self.sheild_up = false;
-
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 523C76E9

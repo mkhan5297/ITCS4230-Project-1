@@ -23,9 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_zombie","path":"objects/Obj_zombie/Obj_zombie.yy",},"parent":{"name":"obj_wall_west","path":"objects/obj_wall_west/obj_wall_west.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [
     {"propertyId":{"name":"x_adjust","path":"objects/obj_wall_east/obj_wall_east.yy",},"objectId":{"name":"obj_wall_east","path":"objects/obj_wall_east/obj_wall_east.yy",},"value":"4    ","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},

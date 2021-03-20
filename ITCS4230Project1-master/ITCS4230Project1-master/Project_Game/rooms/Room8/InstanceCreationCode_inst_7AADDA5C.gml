@@ -1,4 +1,4 @@
-targetroom = Room4;
+targetroom = Room11;
 
 targetx = 640;
 
