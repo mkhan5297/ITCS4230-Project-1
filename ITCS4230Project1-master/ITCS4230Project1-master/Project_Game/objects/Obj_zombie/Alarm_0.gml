@@ -4,10 +4,9 @@
 /// @DnDArgument : "speed" "mspeed"
 speed = mspeed;
 
-/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
-/// @DnDHash : 26EF2D18
-/// @DnDArgument : "spriteind" "active"
-/// @DnDSaveInfo : "spriteind" "Spr_ghost_b_attack"
-sprite_index = active;
-image_index = 0;
+/// @DnDHash : 251CDDA1
+/// @DnDArgument : "soundid" "snd_zombieAttack"
+/// @DnDSaveInfo : "soundid" "snd_zombieAttack"
+audio_play_sound(snd_zombieAttack, 0, 0);
