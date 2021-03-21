@@ -39,6 +39,7 @@
     {"propertyId":{"name":"pasive","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"Spr_lich","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"active","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"Spr_lich","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"points","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"50","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"deathSound","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"snd_lichDeath","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",

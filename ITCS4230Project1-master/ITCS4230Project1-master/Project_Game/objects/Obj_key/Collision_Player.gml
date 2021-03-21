@@ -42,3 +42,10 @@ if(keyis == 2)
 /// @DnDVersion : 1
 /// @DnDHash : 46BB1D65
 instance_destroy();
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 62E5CBC2
+/// @DnDArgument : "soundid" "snd_KeyPickup"
+/// @DnDSaveInfo : "soundid" "snd_KeyPickup"
+audio_play_sound(snd_KeyPickup, 0, 0);

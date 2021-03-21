@@ -34,6 +34,7 @@
     {"propertyId":{"name":"hp","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"15","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"mspeed","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"0","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"maxHP","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"15","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"deathSound","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"snd_StoneDeath","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
