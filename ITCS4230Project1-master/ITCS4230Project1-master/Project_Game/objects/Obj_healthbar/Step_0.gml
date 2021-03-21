@@ -27,9 +27,9 @@ if (l203CE94D_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 6F639787
 	/// @DnDParent : 203CE94D
-	/// @DnDArgument : "room" "Room11"
-	/// @DnDSaveInfo : "room" "Room11"
-	room_goto(Room11);
+	/// @DnDArgument : "room" "Room14"
+	/// @DnDSaveInfo : "room" "Room14"
+	room_goto(Room14);
 }
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed

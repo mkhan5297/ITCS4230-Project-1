@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_player_d",
-    "path": "sprites/Spr_player_d/Spr_player_d.yy",
+    "name": "Spr_lich",
+    "path": "sprites/Spr_lich/Spr_lich.yy",
   },
   "solid": false,
   "visible": true,
@@ -36,8 +36,8 @@
     {"propertyId":{"name":"hp","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"100","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"maxHP","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"100","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"mspeed","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"0","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"pasive","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"Spr_player_u","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"active","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"Spr_player_d","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"pasive","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"Spr_lich","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"active","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"Spr_lich","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"points","path":"objects/Obj_ghost/Obj_ghost.yy",},"objectId":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"value":"50","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {

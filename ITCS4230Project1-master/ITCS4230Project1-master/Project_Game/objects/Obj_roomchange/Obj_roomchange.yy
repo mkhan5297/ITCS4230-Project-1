@@ -4,7 +4,7 @@
     "path": "sprites/Sprite6/Sprite6.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
