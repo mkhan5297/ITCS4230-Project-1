@@ -28,6 +28,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_roomchange","path":"objects/Obj_roomchange/Obj_roomchange.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":0.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":736.0,"resourceVersion":"1.0","name":"inst_D3E5938","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_bossgate","path":"objects/Obj_bossgate/Obj_bossgate.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":0.0,"resourceVersion":"1.0","name":"inst_264A920F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Obj_bossgate","path":"objects/Obj_bossgate/Obj_bossgate.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":704.0,"resourceVersion":"1.0","name":"inst_1ED2D7D2","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Obj_lich","path":"objects/Obj_lich/Obj_lich.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":672.0,"resourceVersion":"1.0","name":"inst_766657DC","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":10,"SerialiseHeight":6,"TileSerialiseData":[
 9,1,1,1,4,4,1,1,1,2,
@@ -57,6 +58,7 @@
     {"name":"inst_D3E5938","path":"rooms/Room13/Room13.yy",},
     {"name":"inst_264A920F","path":"rooms/Room13/Room13.yy",},
     {"name":"inst_1ED2D7D2","path":"rooms/Room13/Room13.yy",},
+    {"name":"inst_766657DC","path":"rooms/Room13/Room13.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
