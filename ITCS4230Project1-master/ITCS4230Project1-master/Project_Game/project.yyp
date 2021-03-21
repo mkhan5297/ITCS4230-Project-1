@@ -46,6 +46,7 @@
     {"id":{"name":"Obj_zombie","path":"objects/Obj_zombie/Obj_zombie.yy",},"order":9,},
     {"id":{"name":"Obj_ghost","path":"objects/Obj_ghost/Obj_ghost.yy",},"order":6,},
     {"id":{"name":"Room12","path":"rooms/Room12/Room12.yy",},"order":19,},
+    {"id":{"name":"snd_SwordSwing","path":"sounds/snd_SwordSwing/snd_SwordSwing.yy",},"order":0,},
     {"id":{"name":"Spr_key","path":"sprites/Spr_key/Spr_key.yy",},"order":19,},
     {"id":{"name":"Obj_roomchange","path":"objects/Obj_roomchange/Obj_roomchange.yy",},"order":1,},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":5,},
