@@ -16,6 +16,13 @@ x = floor(random_range(128, 1152 + 1));
 /// @DnDArgument : "max" "640"
 y = floor(random_range(160, 640 + 1));
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 174E3F04
+/// @DnDArgument : "soundid" "snd_lichTeleport"
+/// @DnDSaveInfo : "soundid" "snd_lichTeleport"
+audio_play_sound(snd_lichTeleport, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 3E08EF3E

@@ -34,4 +34,12 @@ if(canDam)
 	/// @DnDArgument : "steps" "5"
 	/// @DnDArgument : "alarm" "1"
 	alarm_set(1, 5);
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 75B93979
+	/// @DnDParent : 606CEE43
+	/// @DnDArgument : "soundid" "snd_playerHit"
+	/// @DnDSaveInfo : "soundid" "snd_playerHit"
+	audio_play_sound(snd_playerHit, 0, 0);
 }

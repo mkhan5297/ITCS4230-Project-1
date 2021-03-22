@@ -30,6 +30,13 @@ if(hp < maxHP)
 /// @DnDArgument : "speed" "-10"
 speed = -10;
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 731B2E4F
+/// @DnDArgument : "soundid" "snd_GhostAttack"
+/// @DnDSaveInfo : "soundid" "snd_GhostAttack"
+audio_play_sound(snd_GhostAttack, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 3EEB7900

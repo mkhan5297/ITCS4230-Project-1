@@ -1,3 +1,25 @@
+/// @DnDAction : YoYo Games.Audio.Audio_Set_Pitch
+/// @DnDVersion : 1
+/// @DnDHash : 6FEB87FE
+/// @DnDArgument : "sound" "snd_zombieAttack"
+/// @DnDArgument : "pitch" ".1"
+/// @DnDSaveInfo : "sound" "snd_zombieAttack"
+audio_sound_pitch(snd_zombieAttack, .1);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 703E622E
+/// @DnDArgument : "soundid" "snd_zombieAttack"
+/// @DnDSaveInfo : "soundid" "snd_zombieAttack"
+audio_play_sound(snd_zombieAttack, 0, 0);
+
+/// @DnDAction : YoYo Games.Audio.Audio_Set_Pitch
+/// @DnDVersion : 1
+/// @DnDHash : 2BCA7B14
+/// @DnDArgument : "sound" "snd_zombieAttack"
+/// @DnDSaveInfo : "sound" "snd_zombieAttack"
+audio_sound_pitch(snd_zombieAttack, 1);
+
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
 /// @DnDHash : 73F2F6A4
