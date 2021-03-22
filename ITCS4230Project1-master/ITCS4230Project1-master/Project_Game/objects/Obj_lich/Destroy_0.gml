@@ -1,3 +1,8 @@
+/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 24EF2462
+audio_stop_all();
+
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 20C4D2E5
@@ -18,3 +23,13 @@ Player.points += self.points;
 /// @DnDArgument : "expr" "true"
 /// @DnDArgument : "var" "Player.lichKilled"
 Player.lichKilled = true;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 392A0DCB
+/// @DnDApplyTo : {Obj_healthbar}
+/// @DnDArgument : "steps" "5"
+with(Obj_healthbar) {
+alarm_set(0, 5);
+
+}

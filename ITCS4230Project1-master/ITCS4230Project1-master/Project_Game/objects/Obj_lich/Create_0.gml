@@ -12,6 +12,13 @@ audio_play_sound(snd_BossMusic, 0, 0);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
+/// @DnDHash : 0927B60B
+/// @DnDArgument : "steps" "2880"
+/// @DnDArgument : "alarm" "3"
+alarm_set(3, 2880);
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
 /// @DnDHash : 7CFAB818
 /// @DnDArgument : "steps" "60"
 /// @DnDArgument : "alarm" "1"

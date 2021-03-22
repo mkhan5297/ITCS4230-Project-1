@@ -30,8 +30,8 @@
     {"isDnD":true,"eventNum":0,"eventType":1,"collisionObjectId":null,"parent":{"name":"Obj_lich","path":"objects/Obj_lich/Obj_lich.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_sword","path":"objects/Obj_sword/Obj_sword.yy",},"parent":{"name":"Obj_lich","path":"objects/Obj_lich/Obj_lich.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"Obj_lich","path":"objects/Obj_lich/Obj_lich.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"Obj_lich","path":"objects/Obj_lich/Obj_lich.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Player","path":"objects/Player/Player.yy",},"parent":{"name":"Obj_lich","path":"objects/Obj_lich/Obj_lich.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":3,"eventType":2,"collisionObjectId":null,"parent":{"name":"Obj_lich","path":"objects/Obj_lich/Obj_lich.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [
