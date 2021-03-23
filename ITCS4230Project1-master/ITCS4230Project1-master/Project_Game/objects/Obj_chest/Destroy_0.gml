@@ -40,10 +40,10 @@ if(num == 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 3EB8D688
 	/// @DnDParent : 7B897CC1
-	/// @DnDArgument : "expr" "5"
+	/// @DnDArgument : "expr" "50"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "Player.points"
-	Player.points += 5;
+	Player.points += 50;
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
