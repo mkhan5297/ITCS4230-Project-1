@@ -1,10 +1,19 @@
-/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
-/// @DnDHash : 523C76E9
-/// @DnDArgument : "spriteind" "Spr_player_u"
-/// @DnDSaveInfo : "spriteind" "Spr_player_u"
-sprite_index = Spr_player_u;
-image_index = 0;
+/// @DnDHash : 61F32C06
+/// @DnDArgument : "expr" "sprlock"
+/// @DnDArgument : "not" "1"
+if(!(sprlock))
+{
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 523C76E9
+	/// @DnDParent : 61F32C06
+	/// @DnDArgument : "spriteind" "Spr_player_u"
+	/// @DnDSaveInfo : "spriteind" "Spr_player_u"
+	sprite_index = Spr_player_u;
+	image_index = 0;
+}
 
 /// @DnDAction : YoYo Games.Movement.Jump_To_Point
 /// @DnDVersion : 1
