@@ -4,7 +4,7 @@
     "path": "sprites/Spr_testor_roomid/Spr_testor_roomid.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
