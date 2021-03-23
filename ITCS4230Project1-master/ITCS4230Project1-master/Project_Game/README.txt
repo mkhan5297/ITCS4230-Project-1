@@ -1,17 +1,22 @@
-player features added:
--sheild_up:
-	-sheild will be up if you press A
-		-if you press any other button it will not be up
--step_size variable:
-	-you can now adjust how big the player's steps are from here instead of each individual keydown event
+Group: RPG-Blasters
+Names: Names: Mansoor Khan, Chris Sarkisyan, Manuel Cruz, and Nickolas Earles
 
-***********************************
-please note that the green rocks in the corners are temporary testors to show which room you're in; will chnge the onject to invisible later
-*********************************
-
-todo: make zombie take dammage
+Goal:
+	The player must escape the dungeon. to do this you must collect the 2 keys on the far left and right of the map to open the way to the boss. kill it and then escape.
 
 
-make walls not let monsters wal through
+key binds:
+arrow keys to move
+space to attack
+left alt to defend
 
-need fix south wall code
+Cheatcodes:
+R to restart game
+ecape to end game
+1-9 on keypad to jump to room1-9
+keypad / for 10
+keypad * for 11
+keypad - for 12
+keypad + for 13
+keypad . for 14
+control for +100 hp to player
