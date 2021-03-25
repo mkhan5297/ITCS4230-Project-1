@@ -22,6 +22,7 @@
     {"id":{"name":"Obj_lich_shot","path":"objects/Obj_lich_shot/Obj_lich_shot.yy",},"order":24,},
     {"id":{"name":"Spr_projectile_litch","path":"sprites/Spr_projectile_litch/Spr_projectile_litch.yy",},"order":16,},
     {"id":{"name":"Obj_healthbar","path":"objects/Obj_healthbar/Obj_healthbar.yy",},"order":8,},
+    {"id":{"name":"Obj_sword_hitbox","path":"objects/Obj_sword_hitbox/Obj_sword_hitbox.yy",},"order":29,},
     {"id":{"name":"Obj_shield","path":"objects/Obj_shield/Obj_shield.yy",},"order":11,},
     {"id":{"name":"Spr_ghost_b_attack","path":"sprites/Spr_ghost_b_attack/Spr_ghost_b_attack.yy",},"order":9,},
     {"id":{"name":"Obj_chest","path":"objects/Obj_chest/Obj_chest.yy",},"order":18,},

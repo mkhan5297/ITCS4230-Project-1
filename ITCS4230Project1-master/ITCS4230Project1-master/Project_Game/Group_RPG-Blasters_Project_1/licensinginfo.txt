@@ -1,0 +1,82 @@
+Sprites:
+
+Capture by Nickolas C. Earles (2021).
+Sprite6 by Nickolas C. Earles (2021).
+Spr_Bossgate by Nickolas C. Earles (2021).
+Spr_ldoor by Nickolas C. Earles (2021).
+Spr_ldoor2 by Nickolas C. Earles (2021).
+Spr_player_sheild by Nickolas C. Earles (2021).
+Spr_Sword by Nickolas C. Earles (2021).
+Sprite29 by Nickolas C. Earles (2021).
+Sprite30 by Nickolas C. Earles (2021).
+Sprite31 by Nickolas C. Earles (2021).
+Sprite32 by Nickolas C. Earles (2021).
+
+cover_image by Christina M. Sarkisyan (2021).
+Spr_chest by Christina M. Sarkisyan (2021).
+Spr_ghost by Christina M. Sarkisyan (2021).
+Spr_ghost_b_attack by Christina M. Sarkisyan (2021).
+Spr_key by Christina M. Sarkisyan (2021).
+Spr_lich by Christina M. Sarkisyan (2021).
+Spr_life_potion by Christina M. Sarkisyan (2021).
+Spr_player_b_attack  by Christina M. Sarkisyan (2021).
+Spr_player_d by Christina M. Sarkisyan (2021).
+Spr_player_l by Christina M. Sarkisyan (2021).
+Spr_player_r by Christina M. Sarkisyan (2021).
+Spr_player_u by Christina M. Sarkisyan (2021).
+Spr_projectile_litch by Christina M. Sarkisyan (2021).
+Spr_projectile_rock by Christina M. Sarkisyan (2021).
+Spr_Stone_soldier_basic by Christina M. Sarkisyan (2021).
+Spr_trash by Christina M. Sarkisyan (2021).
+Spr_testor_roomid by Christina M. Sarkisyan (2021).
+Spr_Zombie by Christina M. Sarkisyan (2021).
+by Christina M. Sarkisyan (2021).
+
+Spr_bg by Christina M. Sarkisyan and Nickolas C. Earles (2021).
+Spr_sheild_stace_l by Christina M. Sarkisyan and Nickolas C. Earles (2021).
+Spr_sheild_stace_r by Christina M. Sarkisyan and Nickolas C. Earles (2021).
+Sprite5 by Christina M. Sarkisyan and Nickolas C. Earles (2021).
+ 
+ 
+Sounds:
+
+Cartoon swipe, fast swish, whoosh 1 (zapsplat.com)
+https://www.zapsplat.com/music/cartoon-swipe-fast-swish-whoosh-1/
+
+Ghost voice, EVP, eerie fearful breathing 7(zapslat.com)
+https://www.zapsplat.com/music/ghost-voice-evp-eerie-fearful-breathing-7/
+ 
+Person swallows, gulp, drinking(zapsplat.com)
+https://www.zapsplat.com/music/person-swallows-gulp-drinking/
+ 
+Keys Jingling 2_2 by Joao_Janz(freesound.org)
+https://freesound.org/people/Joao_Janz/sounds/485116/
+06790 liche kill moan.wav by Robinhood76(Freesound.org)
+https://freesound.org/people/Robinhood76/sounds/352282/
+
+Teleport.wav by Sergenious(freesound.org)
+https://freesound.org/people/Sergenious/sounds/55853/
+ 
+Grunt2 - Death Pain.wav by tonsil5 (freesound.org)
+https://freesound.org/people/tonsil5/sounds/416838/
+ 
+Grunts Male.wav by dirtjm (freesound.org)
+https://freesound.org/people/Dirtjm/sounds/262279/
+ 
+Medieval shield impact, sword strike, metal hit, light vibrate 1(zapsplat.com)
+https://www.zapsplat.com/music/medieval-shield-impact-sword-strike-metal-hit-light-vibrate-1/
+
+rock falling 010.wav by yottasounds (freesound.org)
+https://freesound.org/people/yottasounds/sounds/232137/
+
+Slingshot shoot 1(zapsplat.com)
+https://www.zapsplat.com/music/slingshot-shoot-1/
+ 
+Battle axe or other large weapon swing, fight 1(zapsplat)
+https://www.zapsplat.com/music/battle-axe-or-other-large-weapon-swing-fight-1/
+
+Zombie gargles by breviceps(freesound.org)
+https://freesound.org/people/Breviceps/sounds/445983/
+
+Body punch, clothing, jacket impact 5(zapsplat.com)
+https://www.zapsplat.com/music/body-punch-clothing-jacket-impact-5/
